@@ -24,6 +24,8 @@ V1/V2 = e [ -a (L1+L2 ) ]
 - Bend fiber and record output vs diameter  
 
 **Tabulation:**
+![WhatsApp Image 2025-11-17 at 5 50 32 PM](https://github.com/user-attachments/assets/879d747a-cfc7-450f-89ce-d86d52775840)
+
 
 ### Propagation Loss
 
