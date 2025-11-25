@@ -69,10 +69,11 @@ L1 = Fiber Length for V1 ; L2 = Fiber Length for V2 This a is for peak wavelengt
 	Compare the two a values.
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/32c7c1cb-395a-414e-92be-e86b122c7977" />
+
 **Tabulation:**
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e02f2241-eb42-4ff6-9b5d-8fc23d5f9192" />
-![WhatsApp Image 2025-11-17 at 5 50 32 PM](https://github.com/user-attachments/assets/879d747a-cfc7-450f-89ce-d86d52775840)
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/21ad4045-bd45-4ecc-a5c9-15c5f50e4eeb" />
+
 
 
 ### Propagation Loss
